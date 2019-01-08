@@ -1,3 +1,2 @@
-print("hello World")
-a = 3+2
-print(a)
+age = input("Enter your current age")
+print("You will turn 100 in : "+ str(100-int(age))+" Years ")
